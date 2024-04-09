@@ -1,0 +1,12 @@
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\bin\Debug\net6.0-windows\Models.deps.json
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\bin\Debug\net6.0-windows\Models.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\refint\Models.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\Models.pdb
+C:\Users\Grumio\source\repos\ICT712 - Assignment 01.wrong framework\Model\obj\Debug\net6.0-windows\ref\Models.dll
