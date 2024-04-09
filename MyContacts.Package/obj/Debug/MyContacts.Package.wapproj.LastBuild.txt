@@ -1,0 +1,179 @@
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\domain-icon-clipart-8.jpg
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LockScreenLogo.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-16.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-256.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-32.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-48.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-16.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-24.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-256.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-32.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-48.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-100.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-125.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-150.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-200.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-400.png
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\resources.pri
+C:\Users\Grumio\.nuget\packages\castle.core\4.4.1\lib\netstandard1.5\Castle.Core.dll
+C:\Users\Grumio\.nuget\packages\humanizer.core\2.8.26\lib\netstandard2.0\Humanizer.dll
+C:\Users\Grumio\.nuget\packages\microsoft.codecoverage\17.1.0\lib\netcoreapp1.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient\2.1.4\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.abstractions\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.design\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.proxies\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.relational\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.sqlserver\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.caching.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.caching.memory\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.configuration.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.dependencyinjection\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.logging\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.options\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Grumio\.nuget\packages\microsoft.extensions.primitives\6.0.0\lib\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Grumio\.nuget\packages\microsoft.identity.client\4.21.1\lib\netcoreapp2.1\Microsoft.Identity.Client.dll
+C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.jsonwebtokens\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.logging\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.protocols\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.tokens\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\testhost.dll
+C:\Users\Grumio\.nuget\packages\mstest.testframework\2.2.8\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Grumio\.nuget\packages\mstest.testframework\2.2.8\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Grumio\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll
+C:\Users\Grumio\.nuget\packages\nuget.frameworks\5.11.0\lib\netstandard2.0\NuGet.Frameworks.dll
+C:\Users\Grumio\.nuget\packages\system.identitymodel.tokens.jwt\6.8.0\lib\netstandard2.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Grumio\.nuget\packages\system.runtime.caching\4.7.0\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient\2.1.4\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient\2.1.4\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grumio\.nuget\packages\system.runtime.caching\4.7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\Controller\bin\Debug\net6.0\Controller.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\Models\bin\Debug\net6.0\Models.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\Controller\bin\Debug\net6.0\Controller.pdb
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.deps.json
+C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\netcoreapp1.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\obj\Debug\net6.0-windows\apphost.exe
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.runtimeconfig.json
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.dll
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.dll.config
+C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.pdb

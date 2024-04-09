@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-FG0VCEU</Machine>
+    <WindowsUser>Grumio</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>445d2bf8-62b1-4ce6-91d6-d4134f0a3acf</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Travis</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\domain-icon-clipart-8.jpg">
+      <PackagePath>domain-icon-clipart-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\castle.core\4.4.1\lib\netstandard1.5\Castle.Core.dll">
+      <PackagePath>ICT712 - Contacts App\Castle.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\humanizer.core\2.8.26\lib\netstandard2.0\Humanizer.dll">
+      <PackagePath>ICT712 - Contacts App\Humanizer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.codecoverage\17.1.0\lib\netcoreapp1.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.CodeCoverage.Shim.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient\2.1.4\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Data.SqlClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.EntityFrameworkCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.abstractions\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.design\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Design.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.proxies\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.EntityFrameworkCore.Proxies.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.relational\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.entityframeworkcore.sqlserver\6.0.7\lib\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.EntityFrameworkCore.SqlServer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.caching.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.caching.memory\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Caching.Memory.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.configuration.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.dependencyinjection\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.logging\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Logging.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Logging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.options\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Options.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Options.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.extensions.primitives\6.0.0\lib\net6.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Extensions.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.identity.client\4.21.1\lib\netcoreapp2.1\Microsoft.Identity.Client.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.Identity.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.jsonwebtokens\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.JsonWebTokens.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.IdentityModel.JsonWebTokens.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.logging\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Logging.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.IdentityModel.Logging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.protocols\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Protocols.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.IdentityModel.Protocols.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.identitymodel.tokens\6.8.0\lib\netstandard2.0\Microsoft.IdentityModel.Tokens.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.IdentityModel.Tokens.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.CoreUtilities.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.TestPlatform.CoreUtilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.TestPlatform.PlatformAbstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.CommunicationUtilities.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.TestPlatform.CommunicationUtilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.CrossPlatEngine.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.TestPlatform.CrossPlatEngine.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.TestPlatform.Utilities.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.TestPlatform.Utilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.Common.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\testhost.dll">
+      <PackagePath>ICT712 - Contacts App\testhost.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\mstest.testframework\2.2.8\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\mstest.testframework\2.2.8\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll">
+      <PackagePath>ICT712 - Contacts App\Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\nuget.frameworks\5.11.0\lib\netstandard2.0\NuGet.Frameworks.dll">
+      <PackagePath>ICT712 - Contacts App\NuGet.Frameworks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\system.identitymodel.tokens.jwt\6.8.0\lib\netstandard2.0\System.IdentityModel.Tokens.Jwt.dll">
+      <PackagePath>ICT712 - Contacts App\System.IdentityModel.Tokens.Jwt.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\system.runtime.caching\4.7.0\lib\netstandard2.0\System.Runtime.Caching.dll">
+      <PackagePath>ICT712 - Contacts App\System.Runtime.Caching.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\de\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\es\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\it\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll">
+      <PackagePath>ICT712 - Contacts App\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient\2.1.4\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient\2.1.4\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.1.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\system.runtime.caching\4.7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll">
+      <PackagePath>ICT712 - Contacts App\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\Controller\bin\Debug\net6.0\Controller.dll">
+      <PackagePath>ICT712 - Contacts App\Controller.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\Models\bin\Debug\net6.0\Models.dll">
+      <PackagePath>ICT712 - Contacts App\Models.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.deps.json">
+      <PackagePath>ICT712 - Contacts App\ICT712 - Contacts App.deps.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.exe">
+      <PackagePath>ICT712 - Contacts App\testhost.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\.nuget\packages\mstest.testadapter\2.2.8\build\netcoreapp1.0\Microsoft.TestPlatform.AdapterUtilities.dll">
+      <PackagePath>ICT712 - Contacts App\Microsoft.TestPlatform.AdapterUtilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\obj\Debug\net6.0-windows\apphost.exe">
+      <PackagePath>ICT712 - Contacts App\ICT712 - Contacts App.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.runtimeconfig.json">
+      <PackagePath>ICT712 - Contacts App\ICT712 - Contacts App.runtimeconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.dll">
+      <PackagePath>ICT712 - Contacts App\ICT712 - Contacts App.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grumio\source\repos\ICT712 - Assignment 03\ICT712 - Assignment 01\bin\Debug\net6.0-windows\ICT712 - Contacts App.dll.config">
+      <PackagePath>ICT712 - Contacts App\ICT712 - Contacts App.dll.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

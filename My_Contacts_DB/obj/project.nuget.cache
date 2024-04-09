@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iyCZ3gmT26xn0NOP/WP1QQV2dHlb0m16hApYC3DGdoYGCLExZt6CkKpn5adoY/xrFp8E8V3l6WLXuuFsIAsidQ==",
+  "dgSpecHash": "anZPZzcf4eMwPs1kw3eVeuN+fayxjC6KtLscP5CF0ZlzVZFX9VU9L3p+NOydRi+Ut82Nt8XJ6X7HmPX9psEHdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grumio\\source\\repos\\ICT712 - Assignment 03\\My_Contacts_DB\\My_Contacts_DB.csproj",
+  "projectFilePath": "C:\\Users\\Grumio\\Documents\\GitHub\\My-Contacts\\My_Contacts_DB\\My_Contacts_DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grumio\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Grumio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

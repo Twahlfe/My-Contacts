@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\MyContacts.Package_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\obj\Debug\Symbols\MyContacts.Package_1.0.0.0_AnyCPU_Debug.appxsym
+ResourcePack=C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\MyContacts.Package_1.0.0.0_scale-100.appx
+ResourcePack=C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\MyContacts.Package_1.0.0.0_scale-125.appx
+ResourcePack=C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\MyContacts.Package_1.0.0.0_scale-150.appx
+ResourcePack=C:\Users\Grumio\source\repos\ICT712 - Assignment 03\MyContacts.Package\bin\AnyCPU\Debug\MyContacts.Package_1.0.0.0_scale-400.appx

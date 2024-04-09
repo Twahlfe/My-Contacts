@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://drive.google.com/drive/folders/MyContacts.Package.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="445d2bf8-62b1-4ce6-91d6-d4134f0a3acf"
+		Version="1.0.0.0"
+		Publisher="CN=Travis"
+		Uri="https://drive.google.com/drive/folders/MyContacts.Package_1.0.0.0_Debug_Test/MyContacts.Package_1.0.0.0_AnyCPU_Debug.appxbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

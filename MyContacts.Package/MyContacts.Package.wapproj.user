@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</Source>
+    <SmallTileSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Grumio\Downloads\domain-icon-clipart-8.jpg</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>
